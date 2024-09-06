@@ -1,4 +1,4 @@
-## Desvendando o Mundo dos Games: Um Guia Rápido para Nossa Busca!
+## Desvendando o Mundo dos Games: Um Guia Rápido para Nossa Busca - Imersão Dev com Google Gemini!
 
 **O que faz essa aplicação?**
 
